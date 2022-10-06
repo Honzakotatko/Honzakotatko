@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gifs.com/gif/jirka-krl-d-vW1M5w" align="center" style="width: 100%" />
+<img src="Tento počítač/Obrázky/vW1M5w.gif" align="center" style="width: 100%" />
 </div>  
   
 
