@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://j.gifs.com/vW1M5w.gif" align="center" style="width: 800px" />
+<img src="https://j.gifs.com/vW1M5w.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -99,7 +99,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hn7t7k7lrn452fme2xgbcbozum&cover_image=true&theme=default&show_offline=false&bar_color_cover=false" /></div>  
 
 <br/>  
 
