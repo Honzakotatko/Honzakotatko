@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Jsem studetn Střední Průmyslové školy v Maldé Bolslavi</div>  
+### <div align="center">Jsem student Střední Průmyslové školy v Maldé Bolslavi</div>  
   
 
 - 🔭 Jsem silnejsi
