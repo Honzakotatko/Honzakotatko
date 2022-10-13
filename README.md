@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">Jsem studetn Střední Průmyslové školy v Maldé Bolslavi</div>  
   
 
 - 🔭 Jsem silnejsi
