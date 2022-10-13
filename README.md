@@ -7,8 +7,7 @@
   
 
 - 🔭 Jsem silnejsi
-- 
-  
+
 
 - 🌱 Jsem chytrejsi
   
